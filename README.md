@@ -1,13 +1,13 @@
 # Face Security Tark - Reconocimiento facial por computador
 
 Sistema de **reconocimiento facial y de gestos en tiempo real** desarrollado en Python, **OpenCV** y **MediaPipe**. 
-Detecta la malla facial (FaceMesh), el esqueleto de las manos (Hands) y clasifica gestos simples (mano abierta, puño cerrado, señal de paz, dedo índice), mostrando además los FPS en pantalla.
+Detecta la malla facial (FaceMesh), el esqueleto de las manos (Hands) y clasifica gestos simples mostrando además los FPS en pantalla.
 
 Este proyecto fue desarrollado como parte de un curso de **ethical hacking / visión por computador**, usando la cámara web como fuente de video.
 
 ---
 
-## 📋 Tabla de contenidos
+## 📋 Tabla de contenidos.
 
 - [Características](#-características)
 - [Demo / Funcionamiento](#-demo--funcionamiento)
