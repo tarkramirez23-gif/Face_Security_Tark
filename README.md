@@ -37,7 +37,7 @@ Este proyecto fue desarrollado como parte de un curso de **ethical hacking / vis
 
 ---
 
-## 🎬 Demo / Funcionamiento
+## 🎬 Funcionamiento.
 
 Al ejecutar el script se abre una ventana con el video de tu cámara web. Sobre la imagen se dibujan:
 
