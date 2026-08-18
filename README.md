@@ -25,12 +25,12 @@ Este proyecto fue desarrollado como visión por computador**, usando la cámara 
 
 ## ✨ Características
 
-- **Detección facial (FaceMesh):** dibuja ~468 puntos de referencia del rostro, incluyendo la malla (tesselation) y los contornos (ojos, cejas, labios, óvalo facial).
-- **Detección de manos (Hands):** identifica hasta 2 manos simultáneamente, con 21 puntos de referencia por mano.
+- **Detección facial (FaceMesh):** dibuja 468 puntos de referencia del rostro, incluyendo la malla  y los contornos (ojos, cejas, labios, óvalo facial).
+- **Detección de manos (Hands):** Identifica hasta 2 manos simultáneamente, con 21 puntos de referencia por mano.
 - **Clasificación de gestos:** cuenta los dedos levantados y clasifica el gesto en:
   - ✊ Puño cerrado
   - ✋ Mano abierta
-  - ✌️ Paz / victoria
+  - ✌️ Paz o victoria
   - ☝️ Índice
   - Otro número de dedos levantados
 - **Contador de FPS en tiempo real** para monitorear el rendimiento.
