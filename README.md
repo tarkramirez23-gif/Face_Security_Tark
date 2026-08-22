@@ -194,7 +194,7 @@ El script `main.py` se organiza en las siguientes partes:
 
 ## 👤 Autor
 
-**Theylor Ramírez** — Estudiante de Ingeniería de Sistemas, Universidad Nacional de Cajamarca.
+**Theylor Ramírez** — Estudiante de Ingeniería de Sistemas Computacionales en la Universidad Privada del Norte.
 Enfocado en ciberseguridad, desarrollo móvil y gestión de proyectos TI.
 
 - GitHub: [@tarkramirez23-gif](https://github.com/tarkramirez23-gif)
